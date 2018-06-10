@@ -32,7 +32,7 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/AdvancedConnect_Options-Applications.png"/></p>
 - 在keepass条目中设置自定义字段
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/Keepass_CustomFields.png"/></p>
-- Start your applications directly from keepass
+- 直接从KeePass启动应用程序
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/Keepass_ContexMenu.png"/></p>
 
 ## Security
