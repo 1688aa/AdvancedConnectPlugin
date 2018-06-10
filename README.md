@@ -58,4 +58,4 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 
 
 ____
-The AdvancedConnect plugin is inspired by [QuickConnect](https://github.com/cristianst85/QuickConnectPlugin) 
+AdvancedConnect插件受QuickConnect启发
