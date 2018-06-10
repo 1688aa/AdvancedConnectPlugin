@@ -36,6 +36,8 @@ Connection Method（连接方法）输入：rdp<br />
 Additional RDP Parameter（额外的RDP参数）：输入/w:1440 /h:900<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/1%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%80%89%E9%A1%B9.PNG"/></p>
 - 添加应用程序
+Application Name（应用名称）（可自定义输入）
+
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/AdvancedConnect_Options-Applications.png"/></p>
 - 在keepass条目中设置自定义字段
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/Keepass_CustomFields.png"/></p>
