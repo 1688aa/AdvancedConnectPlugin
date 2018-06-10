@@ -28,7 +28,7 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 ## 范例
 - 配置主选项
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/AdvancedConnect_Options-Main.png"/></p>
-- Add your applications
+- 添加应用程序
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/AdvancedConnect_Options-Applications.png"/></p>
 - Set custom fields in keepass entries
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/Keepass_CustomFields.png"/></p>
