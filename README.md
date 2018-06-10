@@ -21,7 +21,7 @@ AdvancedConnect 是 [KeePass](http://keepass.info) 密码管理器的插件，�
 在 windows 操作系统上，本地远程桌面客户端没有选择通过命令行提供用户名和密码的选项。内置的 rdp 支持是提供这种功能的一个小小的解决方案。您必须配置 KeaPASS 连接字段（包含IP或主机名）、连接方法（例如rdp），并且可以设置附加参数（例如/w:1440 /h:900）。<br />
 - 使用**选项**对话框中的**Applications**（应用程序）选项卡配置连接应用程序。 <br />
 在**路径**和**Commandline Options**（命令行选项）还支持KeePass的占位符和操作系统环境变量。
-- 要使用**便携式配置**需要在**KeePass.exe**旁边创建一个名为**AdvancedConnect.xml**的emtpy文件。 <br />
+- 要使用**便携式配置**需要在 **KeePass.exe** 旁边创建一个名为 **AdvancedConnect.xml** 的 emtpy 文件。 <br />
 (If a portable\admin configuration file is available, the default configuration *%appdata%\Keepass\AdvancedConnect.xml* will be ignored)
 
 
