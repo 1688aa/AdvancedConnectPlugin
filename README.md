@@ -1,5 +1,5 @@
 # AdvancedConnect 插件的使用方法
-AdvancedConnect 是 [KeePass](http://keepass.info) 密码管理器的插件，它可以直接连接应用程序
+AdvancedConnect 是 [KeePass](http://keepass.info) 密码管理器的插件，它可以直接连接应用程序。
 
 
 ## Requirements
