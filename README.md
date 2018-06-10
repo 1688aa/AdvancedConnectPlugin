@@ -45,11 +45,11 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 
 ## 更新日志
 
-有关详细信息，请参阅[CHANGELOG](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/CHANGELOG.txt)文件。
+有关详细信息，请参阅[日志](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/CHANGELOG.txt)文件。
 
-## Download
+## 下载
 
-You can get all binaries from [here](https://github.com/aalbng/AdvancedConnectPlugin/releases).
+你可以从[这里](https://github.com/aalbng/AdvancedConnectPlugin/releases)获得所有的二进制文件
 
 ## License
 
