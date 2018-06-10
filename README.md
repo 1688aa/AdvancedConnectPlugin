@@ -35,9 +35,9 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 - 直接从KeePass启动应用程序
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/Keepass_ContexMenu.png"/></p>
 
-## Security
+## 安全
 
-Please take note that launching applications via command-line can expose your password arguments in the taskmanager.
+请注意，通过命令行启动应用程序可以在任务管理器中显示您的密码参数。
 
 ## Repository
 
