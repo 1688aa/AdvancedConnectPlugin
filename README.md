@@ -43,9 +43,9 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 
 主存储库在[GitHub](https://github.com/aalbng/AdvancedConnectPlugin)上托管。
 
-## Changelog
+## 更新日志
 
-See [CHANGELOG](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/CHANGELOG.txt) file for details.
+有关详细信息，请参阅[CHANGELOG](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/CHANGELOG.txt)文件。
 
 ## Download
 
