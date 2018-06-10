@@ -5,7 +5,7 @@ AdvancedConnect 是 [KeePass](http://keepass.info) 密码管理器的插件，�
 ## 要求
 
 - Microsoft Windows 的 .NET/[Mono](http://www.mono-project.com/download/) 2.0 或更高版本。
-- Unix/Linux with [Mono](http://www.mono-project.com/download/) 2.0 or newer.
+- Unix/Linux 的 [Mono](http://www.mono-project.com/download/) 2.0 或更高版本。
 - [KeePass](http://keepass.info) version 2.28 or newer.
 
 
