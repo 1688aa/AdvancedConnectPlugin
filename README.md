@@ -40,9 +40,9 @@ Application Name（应用名称）：（可自定义输入）<br />
 Method/Protocol（方法/协议）：（可自定义输入，但必须和条目中字串字段的字段名连接方法下的字段值相同）<br />
 Path（路径）：输入程序路径<br />
 Commandline Options（命令行选项）<br />
-<p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/AdvancedConnect_Options-Applications.png"/></p>
+<p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/2%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.PNG"/></p>
 - 在keepass条目中设置自定义字段
-<p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/Keepass_CustomFields.png"/></p>
+<p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/3%E5%9C%A8keepass%E6%9D%A1%E7%9B%AE%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E6%AE%B5.PNG"/></p>
 - 直接从KeePass启动应用程序
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/Keepass_ContexMenu.png"/></p>
 
