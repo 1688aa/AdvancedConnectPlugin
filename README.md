@@ -22,7 +22,7 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 - 使用**选项**对话框中的**Applications**（应用程序）选项卡配置连接应用程序。 <br />
 在**路径**和**Commandline Options**（命令行选项）还支持KeePass的占位符和操作系统环境变量。
 - 要使用**便携式配置**需要在**KeePass.exe**旁边创建一个名为**AdvancedConnect.xml**的emtpy文件。 <br />
-(If a portable\admin configuration file is available, the default configuration *%appdata%\Keepass\AdvancedConnect.xml* will be ignored)
+（如果有一个便携的\管理配置文件可用，则忽略默认配置%appdata%\Keepass\AdvancedConnect.xml）
 
 
 ## Example
