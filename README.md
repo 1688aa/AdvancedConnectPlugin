@@ -28,7 +28,7 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 ## 范例
 - **配置主选项**<br />
 **Settings（设置）**<br />
-Connection method field(连接方法字段)输入：连接方法<br />
+Connection method field（连接方法字段）输入：连接方法<br />
 Connection options field（连接选项字段）输入：连接选项<br />
 **Enable built in RDP suppot（启用内置的RDP支持）**<br />
 Connection address field（连接地址字段）输入：连接地址<br />
