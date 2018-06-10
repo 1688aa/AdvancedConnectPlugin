@@ -1,5 +1,5 @@
 # AdvancedConnectPlugin
-AdvancedConnect is a plugin for [KeePass](http://keepass.info) password manager which gives you the possibility to provide different applications for direct connections.
+AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它可以直接连接应用程序
 
 
 ## Requirements
