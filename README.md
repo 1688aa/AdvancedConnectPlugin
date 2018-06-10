@@ -53,8 +53,8 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 
 ## 许可
 
-The source code in this repository is released under the Apache License, Version 2.0 license. <br />
-See the [LICENSE](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/LICENSE.txt) file for details.
+这个存储库中的源代码是在Apache许可版本2.0许可下发布的。 <br />
+有关详细信息，请参阅[许可](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/LICENSE.txt)文件。
 
 
 ____
