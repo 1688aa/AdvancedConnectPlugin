@@ -25,7 +25,7 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 （如果有一个便携的\管理配置文件可用，则忽略默认配置%appdata%\Keepass\AdvancedConnect.xml）
 
 
-## Example
+## 范例
 - Configure main options
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/AdvancedConnect_Options-Main.png"/></p>
 - Add your applications
