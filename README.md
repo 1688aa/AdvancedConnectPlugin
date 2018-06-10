@@ -12,7 +12,7 @@ AdvancedConnect 是 [KeePass](http://keepass.info) 密码管理器的插件，�
 ## 安装
 
 - 下载 [最新](https://github.com/aalbng/AdvancedConnectPlugin/releases/latest) 版本。
-- Copy the AdvancedConnectPlugin.plgx in your KeePass directory and restart the application.
+- 将AdvancedConnectPlugin.plgx复制到KeePass/Plugins目录中并重新启动应用程序。
 
 ## Usage
 
