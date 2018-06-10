@@ -9,9 +9,9 @@ AdvancedConnect 是 [KeePass](http://keepass.info) 密码管理器的插件，�
 - [KeePass](http://keepass.info) version 2.28 或更高版本。
 
 
-## Installation
+## 安装
 
-- Download the [latest](https://github.com/aalbng/AdvancedConnectPlugin/releases/latest) release.
+- 下载 [最新](https://github.com/aalbng/AdvancedConnectPlugin/releases/latest) 版本。
 - Copy the AdvancedConnectPlugin.plgx in your KeePass directory and restart the application.
 
 ## Usage
