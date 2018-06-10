@@ -2,7 +2,7 @@
 AdvancedConnect 是 [KeePass](http://keepass.info) 密码管理器的插件，它可以直接连接应用程序。
 
 
-## Requirements
+## 要求
 
 - Microsoft Windows的 .NET/[Mono](http://www.mono-project.com/download/) 2.0或更高版本。
 - Unix/Linux with [Mono](http://www.mono-project.com/download/) 2.0 or newer.
