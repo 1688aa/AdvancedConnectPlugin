@@ -27,7 +27,7 @@ AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它�
 
 ## 范例
 - 配置主选项
-<p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/AdvancedConnect_Options-Main.png"/></p>
+<p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/1%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%80%89%E9%A1%B9%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.png"/></p>
 - 添加应用程序
 <p align="center"><img src="https://github.com/aalbng/AdvancedConnectPlugin/blob/master/Doc/AdvancedConnect_Options-Applications.png"/></p>
 - 在keepass条目中设置自定义字段
