@@ -1,5 +1,5 @@
 # AdvancedConnect 插件的使用方法
-- AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它可以直接连接应用程序。
+- AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它可以打开应用程序。
 - 只有WinSCP能自动登录，其他不能自动登录，无须此插件可在网址处输入程序路径即可打开，所以这个插件被作者弃坑了。
 
 
