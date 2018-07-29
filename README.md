@@ -44,7 +44,7 @@ Path(路径)：输入程序路径<br />
 Commandline Options(命令行选项)<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/2%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.PNG"/></p>
 -<p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/2%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.png"/></p>
-- 在keepass条目中设置自定义字段
+- 在keepass条目中添加自定义字段
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/3%E5%9C%A8keepass%E6%9D%A1%E7%9B%AE%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E6%AE%B5.PNG"/></p>
 - 直接从KeePass启动应用程序<br />
 浏览器无法自动登录<br />
