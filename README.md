@@ -37,7 +37,7 @@ Connection address field(连接地址字段)：可自定义输入，但必须和
 Connection Method(连接方法)输入：rdp<br />
 Additional RDP Parameter(额外的RDP参数)：输入/w:1440 /h:900<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/1%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%80%89%E9%A1%B9.PNG"/></p>
-- 添加应用程序<br />
+- Applications(添加应用程序)<br />
 Application Name(应用名称)：可自定义输入<br />
 Method/Protocol(方法/协议)：可自定义输入，但必须和条目中字串字段的字段名连接方法下的字段值相同<br />
 Path(路径)：输入程序路径<br />
