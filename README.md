@@ -44,7 +44,7 @@ Path(路径)：输入程序路径<br />
 Commandline Options(命令行选项)<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/2%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.PNG"/></p>
 -<p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/2%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.png"/></p>
-- 在条目中的字串字段添加自定义字段：<br />
+- 在条目-字串字段添加自定义字段：<br />
 字段名输入连接方法字段值输入ssh<br />
 字段名输入连接选项字段值留空<br />
 字段名输入连接地址字段值输入主机地址和端口或网址<br />
