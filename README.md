@@ -27,7 +27,8 @@
 
 
 ## 范例
-- **配置主选项**<br />
+- **Main(配置主选项)**<br />
+- **Main(配置主选项)**<br />
 **Settings（设置）**<br />
 Connection method field(连接方法字段)：可自定义输入，但必须和条目中字串字段的字段名相同<br />
 Connection options field(连接选项字段)：可自定义输入，但必须和条目中字串字段的字段名相同<br />
