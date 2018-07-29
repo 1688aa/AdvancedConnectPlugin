@@ -52,7 +52,7 @@ Commandline Options(命令行选项)<br />
 - 选择条目右键点击相应的程序就可以打开程序了<br />
 只有WinSCP能自动登录，其他不能自动登录<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/4%E7%9B%B4%E6%8E%A5%E4%BB%8EKeePass%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.png"/></p>
-### 打开程序设置方法<br />
+-  **打开程序设置方法<br /> **
 
 ## 安全
 
