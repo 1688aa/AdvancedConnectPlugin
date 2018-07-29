@@ -29,16 +29,16 @@
 ## 范例
 - **配置主选项**<br />
 **Settings（设置）**<br />
-Connection method field(连接方法字段)：输入连接方法（可自定义输入，但必须和条目中字串字段的字段名相同）<br />
-Connection options field(连接选项字段)：输入连接选项（可自定义输入，但必须和条目中字串字段的字段名相同）<br />
+Connection method field(连接方法字段)：可自定义输入，但必须和条目中字串字段的字段名相同<br />
+Connection options field(连接选项字段)：可自定义输入，但必须和条目中字串字段的字段名相同<br />
 **Enable built in RDP suppot(启用内置的RDP支持)**<br />
-Connection address field(连接地址字段)：输入连接地址（可自定义输入，但必须和条目中字串字段的字段名相同）<br />
+Connection address field(连接地址字段)：可自定义输入，但必须和条目中字串字段的字段名相同<br />
 Connection Method(连接方法)输入：rdp<br />
 Additional RDP Parameter(额外的RDP参数)：输入/w:1440 /h:900<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/1%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%80%89%E9%A1%B9.PNG"/></p>
 - 添加应用程序<br />
-Application Name(应用名称)：（可自定义输入）<br />
-Method/Protocol(方法/协议)：（可自定义输入，但必须和条目中字串字段的字段名连接方法下的字段值相同）<br />
+Application Name(应用名称)：可自定义输入<br />
+Method/Protocol(方法/协议)：可自定义输入，但必须和条目中字串字段的字段名连接方法下的字段值相同<br />
 Path(路径)：输入程序路径<br />
 Commandline Options(命令行选项)<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/2%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.PNG"/></p>
