@@ -44,13 +44,13 @@ Path(路径)：输入程序路径<br />
 Commandline Options(命令行选项)<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/2%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.PNG"/></p>
 -<p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/2%E6%B7%BB%E5%8A%A0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.png"/></p>
-- 在keepass条目中字串字段添加自定义字段：<br />
+- 在keepass条目中字串字段添加自定义字段：
 字段名输入连接方法字段值输入ssh<br />
 字段名输入连接选项字段值留空<br />
 字段名输入连接地址字段值输入主机地址和端口或网址<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/3%E5%9C%A8keepass%E6%9D%A1%E7%9B%AE%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E6%AE%B5.PNG"/></p>
 - 选择条目右键点击相应的程序就可以打开程序了<br />
-浏览器无法自动登录<br />
+只有WinSCP能自动登录，其他不能自动登录<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/4%E7%9B%B4%E6%8E%A5%E4%BB%8EKeePass%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.png"/></p>
 
 ## 安全
