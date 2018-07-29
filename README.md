@@ -8,11 +8,13 @@
 - [KeePass](http://keepass.info) version 2.28或更高版本。
 
 ## 安装
-
 - 下载[最新](https://github.com/aalbng/AdvancedConnectPlugin/releases/latest)版本。
 - 将AdvancedConnectPlugin.plgx复制到KeePass/Plugins目录中并重新启动应用程序。
 
 ## 用法
+
+
+
 
 - 该插件在**工具**菜单下添加了一个名为**Advanced Connect**的新菜单项。
 - 使用**选项**对话框中的**Main**（主选项卡）来配置插件获取连接方法和连接选项字段的自定义字段（覆盖默认选项）。<br /><br />
