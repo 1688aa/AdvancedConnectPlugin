@@ -29,10 +29,10 @@
 ## 范例
 - **工具-Advanced Connect(高级连接)-Options(选项)**<br />
 - **Main(配置主选项)**<br />
--**Settings（设置）**<br />
+- **Settings（设置）**<br />
 Connection method field(连接方法字段)：可自定义输入，但必须和条目中字串字段的字段名相同<br />
 Connection options field(连接选项字段)：可自定义输入，但必须和条目中字串字段的字段名相同<br />
-**Enable built in RDP suppot(启用内置的RDP支持)**<br />
+**Enable built in RDP suppot(启用内置的RDP支持，默认勾选)**<br />
 Connection address field(连接地址字段)：可自定义输入，但必须和条目中字串字段的字段名相同<br />
 Connection Method(连接方法)输入：rdp<br />
 Additional RDP Parameter(额外的RDP参数)：输入/w:1440 /h:900<br />
