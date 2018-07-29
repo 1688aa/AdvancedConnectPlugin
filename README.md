@@ -3,7 +3,7 @@
 - 只有WinSCP能自动登录，其他不能自动登录，无须此插件可在网址处输入程序路径即可打开，所以这个插件被作者弃坑了。
 
 
-## 要求t
+## 要求
 
 - Microsoft Windows的.NET/[Mono](http://www.mono-project.com/download/) 2.0或更高版本。
 - Unix/Linux 的 [Mono](http://www.mono-project.com/download/) 2.0或更高版本。
