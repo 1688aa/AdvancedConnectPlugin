@@ -27,7 +27,7 @@
 Connection method field(连接方法字段)：输入连接方法（可自定义输入，但必须和条目中字串字段的字段名相同）<br />
 Connection options field(连接选项字段)：输入连接选项（可自定义输入，但必须和条目中字串字段的字段名相同）
 **Enable built in RDP suppot(启用内置的RDP支持)：（远程桌面协议，默认勾选）**<br />
-Connection address field(连接地址字段)：输入连接地址（可自定义输入，但必须和条目中字串字段的字段名相同）<br />
+Connection address field(连接地址字段)：输入连接地址（可自定义输入，但必须和条目中字串字段的字段名相同）
 Connection Method(连接方法)：输入rdp<br />
 Additional RDP Parameter(额外的RDP参数)：输入/w:1440 /h:900<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/1%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%80%89%E9%A1%B9.PNG"/></p>
