@@ -1,12 +1,12 @@
 # AdvancedConnect 插件的使用方法
 - AdvancedConnect是[KeePass](http://keepass.info)密码管理器的插件，它可以打开应用程序。
 - 只有WinSCP能自动登录，其他不能自动登录，无须此插件可在网址处输入程序路径即可打开。
-------------------------
+
 ## 要求
 - Microsoft Windows的.NET/[Mono](http://www.mono-project.com/download/) 2.0或更高版本。
 - Unix/Linux 的 [Mono](http://www.mono-project.com/download/) 2.0或更高版本。
 - [KeePass](http://keepass.info) version 2.28或更高版本。
-————————————————————————————————————————————
+——
 ## 安装
 - 下载[最新](https://github.com/aalbng/AdvancedConnectPlugin/releases/latest)版本。
 - 将AdvancedConnectPlugin.plgx复制到KeePass/Plugins目录中并重新启动应用程序。
