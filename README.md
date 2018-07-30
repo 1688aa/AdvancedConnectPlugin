@@ -4,7 +4,7 @@
 
 ## 要求
 - Microsoft Windows的.NET/[Mono](http://www.mono-project.com/download/) 2.0或更高版本。
-___
+
 - Unix/Linux 的 [Mono](http://www.mono-project.com/download/) 2.0或更高版本。
 --
 - [KeePass](http://keepass.info) version 2.28或更高版本。
@@ -78,5 +78,5 @@ Commandline Options(命令行选项)<br />
 有关详细信息，请参阅[许可](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/LICENSE.txt)文件。
 
 
-____
+___
 AdvancedConnect插件受QuickConnect启发
