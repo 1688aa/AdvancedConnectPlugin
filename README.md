@@ -57,23 +57,18 @@ Commandline Options(命令行选项)
 打开浏览器特定网址：Commandline Options输入{S:连接地址}
 
 ## 安全
-
 请注意，通过命令行启动应用程序可以在任务管理器中显示您的密码参数。
 
 ## 存储库
-
 主存储库在[GitHub](https://github.com/aalbng/AdvancedConnectPlugin)上托管。
 
 ## 更新日志
-
 有关详细信息，请参阅[日志](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/CHANGELOG.txt)文件。
 
 ## 下载
-
 你可以从[这里](https://github.com/aalbng/AdvancedConnectPlugin/releases)获得所有的二进制文件
 
 ## 许可
-
 这个存储库中的源代码是在Apache许可版本2.0许可下发布的。 <br />
 有关详细信息，请参阅[许可](https://github.com/aalbng/AdvancedConnectPlugin/blob/master/AdvancedConnectPlugin/LICENSE.txt)文件。
 ___
