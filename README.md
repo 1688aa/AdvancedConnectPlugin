@@ -24,7 +24,7 @@
 - **工具-Advanced Connect(高级连接)-Options(选项)**
 - **Main(配置主选项)**
 - **Settings（设置）**<br />
-Connection method field(连接方法字段)：输入连接方法可自定义输入，但必须和条目中字串字段的字段名相同
+Connection method field(连接方法字段)输入连接方法可自定义输入，但必须和条目中字串字段的字段名相同
 Connection options field(连接选项字段)：输入连接选项（可自定义输入，但必须和条目中字串字段的字段名相同）
 **Enable built in RDP suppot(启用内置的RDP支持)：（远程桌面协议，默认勾选）**<br />
 Connection address field(连接地址字段)：输入连接地址（可自定义输入，但必须和条目中字串字段的字段名相同）
