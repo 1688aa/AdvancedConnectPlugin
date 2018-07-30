@@ -53,7 +53,7 @@ Commandline Options(命令行选项)
 - **打开程序设置方法**<br />
 **在Connection method field输入连接方法：**Application Name输入程序名称，Method/Protocol输入程序名称（多个条目共用一个值，右键会出现全部相同值的程序。一个条目也可建立多个程序），Path输入程序路径，在字串字段字段名输入连接方法值输入程序名称（多个条目共用一个值，右键会出现全部相同值的程序。一个条目也可建立多个程序）
 - **打开WinSCP自动登录设置方法**<br />
-**在Connection method field输入连接方法：**Connection address field输入连接地址，Application Name输入程序名称，Method/Protocol输入程序名称，Path输入程序路径，Commandline Options输入{USERNAME}:{PASSWORD}@{S:连接地址}，在字串字段字段名输入连接方法值输入程序名称，字段名输入连接地址值输入主机名和端口<br />
+**在Connection method field输入连接方法**：Connection address field输入连接地址，Application Name输入程序名称，Method/Protocol输入程序名称，Path输入程序路径，Commandline Options输入{USERNAME}:{PASSWORD}@{S:连接地址}，在字串字段字段名输入连接方法值输入程序名称，字段名输入连接地址值输入主机名和端口<br />
 打开浏览器特定网址：Commandline Options输入{S:连接地址}
 
 ## 安全
