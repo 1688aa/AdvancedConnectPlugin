@@ -13,7 +13,7 @@
 
 ## 用法
 - 该插件在**工具**菜单下添加了一个名为**Advanced Connect**的新菜单项。
-- 使用**Options**对话框中的**Main**（主选项卡）来配置插件获取连接方法和连接选项字段的自定义字段（覆盖默认选项）。;
+- 使用**Options**对话框中的**Main**（主选项卡）来配置插件获取连接方法和连接选项字段的自定义字段（覆盖默认选项）。<br />
 在windows操作系统上，本地远程桌面客户端没有选择通过命令行提供用户名和密码的选项。内置的rdp支持是提供这种功能的一个小小的解决方案。您必须配置KeaPASS连接字段（包含IP或主机名）、连接方法（例如rdp），并且可以设置附加参数（例如/w:1440 /h:900）。
 - 使用**Options**对话框中的**Applications**（应用程序）选项卡配置连接应用程序。<br />
 在**路径**和**Commandline Options**（命令行选项）还支持KeePass的占位符和操作系统环境变量。
@@ -33,7 +33,7 @@ Additional RDP Parameter(额外的RDP参数)：输入/w:1440 /h:900<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/1%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%80%89%E9%A1%B9.PNG"/></p>
 
 - **Applications(添加应用程序)**<br />
-Application Name(应用名称)：可自定义输入<br />
+Application Name(应用名称)：可自定义输入
 Method/Protocol(方法/协议)：输入打开程序，可自定义输入，但必须和条目中字串字段的字段名连接方法下的字段值相同<br />
 Path(路径)：输入程序路径<br />
 Commandline Options(命令行选项)<br />
