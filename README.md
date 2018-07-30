@@ -51,9 +51,9 @@ Commandline Options(命令行选项)
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/4%E7%9B%B4%E6%8E%A5%E4%BB%8EKeePass%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.png"/></p>
 
 - **打开程序设置方法**<br />
-**在Connection method field输入连接方法:** Application Name输入程序名称，Method/Protocol输入程序名称（多个条目共用一个值，右键会出现全部相同值的程序。一个条目也可建立多个程序），Path输入程序路径，在字串字段字段名输入连接方法值输入程序名称（多个条目共用一个值，右键会出现全部相同值的程序。一个条目也可建立多个程序）
+**在Connection method field输入连接方法：**Application Name输入程序名称，Method/Protocol输入程序名称（多个条目共用一个值，右键会出现全部相同值的程序。一个条目也可建立多个程序），Path输入程序路径，在字串字段字段名输入连接方法值输入程序名称（多个条目共用一个值，右键会出现全部相同值的程序。一个条目也可建立多个程序）
 - **打开WinSCP自动登录设置方法**<br />
-**在Connection method field输入连接方法:**Connection address field输入连接地址，Application Name输入程序名称，Method/Protocol输入程序名称，Path输入程序路径，Commandline Options输入{USERNAME}:{PASSWORD}@{S:连接地址}，在字串字段字段名输入连接方法值输入程序名称，字段名输入连接地址值输入主机名和端口<br />
+**在Connection method field输入连接方法：** Connection address field输入连接地址，Application Name输入程序名称，Method/Protocol输入程序名称，Path输入程序路径，Commandline Options输入{USERNAME}:{PASSWORD}@{S:连接地址}，在字串字段字段名输入连接方法值输入程序名称，字段名输入连接地址值输入主机名和端口<br />
 打开浏览器特定网址：Commandline Options输入{S:连接地址}
 
 ## 安全
