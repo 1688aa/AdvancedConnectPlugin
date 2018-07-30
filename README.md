@@ -21,7 +21,7 @@
 （如果有这个便携的\管理配置文件可用，则忽略默认配置%appdata%\Keepass\AdvancedConnect.xml）
 
 ## 范例
-- **工具-Advanced Connect(高级连接)-Options(选项)**<br />
+- **工具-Advanced Connect(高级连接)-Options(选项)**
 - **Main(配置主选项)**
 - **Settings（设置）**
 Connection method field(连接方法字段)：输入连接方法（可自定义输入，但必须和条目中字串字段的字段名相同）<br />
@@ -33,7 +33,7 @@ Additional RDP Parameter(额外的RDP参数)：输入/w:1440 /h:900<br />
 <p align="center"><img src="https://github.com/1688pc/AdvancedConnectPlugin/blob/master/Doc/1%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%80%89%E9%A1%B9.PNG"/></p>
 
 - **Applications(添加应用程序)**<br />
-Application Name(应用名称)：可自定义输入
+Application Name(应用名称)：可自定义输入<br />
 Method/Protocol(方法/协议)：输入打开程序，可自定义输入，但必须和条目中字串字段的字段名连接方法下的字段值相同<br />
 Path(路径)：输入程序路径<br />
 Commandline Options(命令行选项)<br />
